@@ -1,3 +1,6 @@
 # git-github
 
-Efni de Jesús Félix Limón
+Owner: Efni de Jesús Félix Limón
+
+
+Collabs: JC Chang C | @DfltUzr
