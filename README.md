@@ -1,8 +1,7 @@
 # git-github
 
-owner: Efni de Jesús Félix Limón
 
+Owner: Efni de Jesús Félix Limón
 
-Collaborators:
-
+Collabs: JC Chang C | @DfltUzr
 Kevin Paul Alvarado Trapero @KPAT247
